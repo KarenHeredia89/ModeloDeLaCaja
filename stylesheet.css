@@ -1,0 +1,14 @@
+div {
+	border: 5px solid #2a00aa;
+	background-color: #557fff;
+	padding: 10px 50px;
+	margin: 30px;
+}
+p {
+	border: 2px dashed #99ffff;
+	text-align: center;
+	color: white;
+	font-family: Helvetica;
+	padding: 10px 0px;
+	background-color: blue;
+}
